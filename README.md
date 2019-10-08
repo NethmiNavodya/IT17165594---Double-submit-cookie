@@ -3,11 +3,11 @@
 IT17165594
 
 Deployment
-Language - php/javascript
+Language - php/javascript, 
 Run files with apache web server.
 
 
-user - root
+user - root, 
 pw - root
 
 Blog post : 
